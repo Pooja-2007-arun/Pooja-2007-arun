@@ -1,4 +1,20 @@
 ## 💻 Welcome to My Space ✨
+<!-- ANIMATED HEADER BANNER -->
+![header](https://itextglow.vercel.app/api/banner?text=POOJA&sub=%5BDeveloper-Builder-Explorer%5D&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=62&subsize=16&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
+
+
+> *In memory of my dear friends, **Stack Overflow** & **GeeksforGeeks** & **W3Schools** — I'll miss them.*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- TYPING ANIMATION -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=B550FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile!+👋;Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+new+things+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+
+<br/>
 
 ## 🌟 About Me
 
