@@ -64,3 +64,16 @@ I'm a passionate tech enthusiast who loves exploring new technologies and contin
 </table>
 
 ---
+
+<h2>💌 Let's Connect</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/poojaarun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:poojadharani2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
